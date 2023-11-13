@@ -16,5 +16,20 @@ namespace Test_GITHUB_with_visual_studio
             Console.WriteLine("c# Academy! One more modification!");
             Console.WriteLine("c# Academy! One more modification!");
         }
+
+        static void MyFisrtMethod()
+        {
+            //Do something
+        }
+
+        static void MySecondMethod()
+        {
+            //Do something
+        }
+
+        static void MyThirdMethod()
+        {
+            //Do something
+        }
     }
 }
