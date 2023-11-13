@@ -10,7 +10,7 @@ namespace Test_GITHUB_with_visual_studio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("c# Academy");
+            Console.WriteLine("c# Academy! One more modification!");
         }
     }
 }
